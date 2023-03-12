@@ -1,6 +1,6 @@
 # checkers-game
 
-This is my submission for Assignment 2 of COMP10002 Foundations of Algorithms. 
+This is my submission for Assignment 2 of COMP10002 Foundations of Algorithms in Sem 2 2021. 
 
 ## Overview
 
