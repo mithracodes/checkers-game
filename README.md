@@ -1,7 +1,5 @@
 # checkers-game
 
-This is my submission for ***Assignment 2 of COMP10002 Foundations of Algorithms in Sem 2 2021***. 
-
 ## Overview
 
 Checkers, or draughts, is a strategy board game played by two players. There are many variants of checkers. For a guide to checker’s families and rules, see *https://www.fmjd.org/downloads/Checkers_families_and_rules.pdf*.
@@ -59,3 +57,5 @@ If the next action cannot be computed, the program prints a message indicating t
 ## Stage 2: Machines Game
 
 If the `P` command is given as input, the program should play ten next actions or play until the end of the game, whichever comes first. The game should start from the board configuration obtained after processing the Stage 0 input. If the game ends within the next ten turns (including the last turn when no action is possible), the winner should be reported based on the rules from Stage 1. The computation of actions and reporting of the winner should follow the same rules as in Stage 1.
+
+*** Note: This is my submission for *Assignment 2 of COMP10002 Foundations of Algorithms in Sem 2 2021.* ***
